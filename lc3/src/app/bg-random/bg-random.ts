@@ -1,6 +1,5 @@
 import { Component } from '@angular/core';
 import { RandomDirective } from '../random-directive';
-
 @Component({
   selector: 'app-bg-random',
   imports: [RandomDirective],
